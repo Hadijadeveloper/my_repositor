@@ -1,2 +1,3 @@
-print("Hello, world")
+print("Hello, world!")
+print("Welcome to our team")
 
